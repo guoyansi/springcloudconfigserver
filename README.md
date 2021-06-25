@@ -1,0 +1,2 @@
+# springcloudconfigserver
+springcloud的配置中心
